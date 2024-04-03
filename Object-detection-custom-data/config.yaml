@@ -1,0 +1,8 @@
+path : C:\Users\hp\PycharmProjects\Object-detection-custom-data\OIDv4_ToolKit\OID\Dataset
+
+train: train\images
+
+val:  train\images
+# Classes
+names:
+  0: horse
